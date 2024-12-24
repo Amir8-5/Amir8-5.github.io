@@ -13,3 +13,7 @@
               0 2px 4px -1px rgba(0, 0, 0, 0.06),
               0 0 0 3px rgba(255, 255, 255, 0.1);
 }
+
+img {
+  max-width: auto !important;
+}
